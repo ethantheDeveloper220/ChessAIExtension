@@ -16,7 +16,7 @@ Welcome to the **Chess AI Extension**! 🎉 This Chrome extension helps you **va
 ## How to Install 🔧
 
 1. **Download the Extension**:
-   - Go to the [Releases]([Go to the [Releases](https://github.com/DevEthan/ChessAIExtension/releases) page.
+   - Go to the [Releases](https://github.com/DevEthan/ChessAIExtension/releases) page.
    - Download the `.zip` file for the latest version.
 
 2. **Install the Extension**:
